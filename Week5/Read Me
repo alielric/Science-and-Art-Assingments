@@ -1,0 +1,13 @@
+# Week 5 - Prompt-based Chatbot with Free Model
+
+This week’s assignment demonstrates a simple chatbot built using a **free Hugging Face model**.
+
+---
+
+ Model Details
+- Model: `distilgpt2`  
+- Library: `transformers`  
+- Task type: `text-generation`
+
+This is a free and lightweight model suitable for basic chatbot tasks.
+
